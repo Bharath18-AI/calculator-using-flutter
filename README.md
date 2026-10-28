@@ -12,24 +12,28 @@
 
 <br/>
 
-```
- ┌────────────────────────────────────────┐
- │  125 + 45 =                            │
- │                                    170 │
- ├──────────┬──────────┬──────────┬───────┤
- │    AC    │    ⌫     │    %     │   ÷   │
- ├──────────┼──────────┼──────────┼───────┤
- │    7     │    8     │    9     │   ×   │
- ├──────────┼──────────┼──────────┼───────┤
- │    4     │    5     │    6     │   -   │
- ├──────────┼──────────┼──────────┼───────┤
- │    1     │    2     │    3     │   +   │
- ├──────────┼──────────┼──────────┼───────┤
- │    ±     │    0     │    .     │   =   │
- └──────────┴──────────┴──────────┴───────┘
-```
-
 </div>
+
+<img width="1280" height="731" alt="Screenshot 2026-10-27 222908" src="https://github.com/user-attachments/assets/0d5a0c5b-81a7-4f4a-a755-22594c27f9af" />
+
+| Element | Flutter Widget | Used For |
+| :--- | :--- | :--- |
+| **Background & Layout** | `Scaffold`, `Container`, `Column`, `Row`, `Padding` | Screen background, alignment, spacing, and layout. |
+| **Title & Display** | `Text` | Displays the calculator title, expression, and result. |
+| **Button Grid** | `GridView.count` | Arranges calculator buttons in a grid. |
+| **Number & Operation Buttons** | `ElevatedButton` | Handles digits, arithmetic operations, percentage, decimal, sign change, clear, and equals. |
+| **Backspace Icon** | `IconButton`, `Icon` | Deletes the last entered character. |
+| **Button Styling** | `ButtonStyle`, `RoundedRectangleBorder` | Sets button colors, rounded corners, and appearance. |
+| **State Management** | `StatefulWidget`, `setState()` | Updates the display when buttons are pressed. |
+| **Calculation Logic** | Dart functions | Performs calculations and handles user input. |
+
+---
+
+## Video Preview
+
+
+https://github.com/user-attachments/assets/e0a38def-b50b-4813-b8cc-2bbfda6b4d43
+
 
 ---
 
@@ -118,18 +122,6 @@ Run static code analysis:
 ```bash
 flutter analyze
 ```
-
----
-
-## ⚙️ Automated Daily Commits
-
-This repository includes a scheduled **GitHub Actions workflow** (`.github/workflows/daily-commit.yml`) configured to:
-- Automatically trigger every day at **04:30 UTC** (10:00 AM IST).
-- Select random files across documentation and project notes for meaningful updates.
-- Commit and push changes with clear, understandable commit messages.
-- Active for a 14-day cycle from inception.
-
-You can also trigger it manually anytime under the **Actions** tab in GitHub via `workflow_dispatch`.
 
 ---
 
