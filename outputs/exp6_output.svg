@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+  <rect width="900" height="520" fill="#17171c"/>
+  <rect x="40" y="35" width="820" height="450" rx="16" fill="#212227"/>
+  <text x="70" y="80" fill="#ff9f0a" font-family="Arial, sans-serif" font-size="26" font-weight="bold">Experiment 6 — Custom Widgets &amp; Themes</text>
+  <!-- Custom Header -->
+  <rect x="70" y="115" width="760" height="80" rx="12" fill="#17171c" stroke="#333"/>
+  <rect x="90" y="130" width="50" height="50" rx="10" fill="#332410"/>
+  <text x="115" y="162" fill="#ff9f0a" font-family="Arial" font-size="24" text-anchor="middle">🖩</text>
+  <text x="155" y="150" fill="#fff" font-family="Arial" font-size="20" font-weight="bold">Precision Math Engine</text>
+  <text x="155" y="172" fill="#888" font-family="Arial" font-size="14">Mode: Arithmetic Evaluation</text>
+  <!-- Custom Display Card -->
+  <rect x="70" y="210" width="760" height="110" rx="12" fill="#17171c" stroke="#ff9f0a" stroke-width="1.5"/>
+  <text x="810" y="245" fill="#888" font-family="Consolas" font-size="16" text-anchor="end">256 × 4 + 128 =</text>
+  <text x="810" y="295" fill="#ff9f0a" font-family="Consolas" font-size="44" font-weight="bold" text-anchor="end">1,152</text>
+  <!-- Custom Action Button -->
+  <rect x="70" y="340" width="760" height="55" rx="14" fill="#ff9f0a"/>
+  <text x="450" y="375" fill="#000" font-family="Arial" font-size="20" font-weight="bold" text-anchor="middle">▶ Evaluate Expression (CalculatorActionButton)</text>
+  <text x="70" y="440" fill="#4caf50" font-family="Arial" font-size="14">ThemeData: Dark Material 3 Palette with Amber (#FF9F0A) Accent</text>
+</svg>

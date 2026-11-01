@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+  <rect width="900" height="520" fill="#17171c"/>
+  <rect x="40" y="35" width="820" height="450" rx="16" fill="#212227"/>
+  <text x="70" y="80" fill="#ff9f0a" font-family="Arial, sans-serif" font-size="26" font-weight="bold">Experiment 7 — Forms, Validation &amp; Error Handling</text>
+  <rect x="70" y="110" width="760" height="45" rx="8" fill="#17171c" stroke="#555"/>
+  <text x="90" y="138" fill="#fff" font-family="Consolas" font-size="16">First Operand: 125.5</text>
+  <rect x="70" y="170" width="760" height="45" rx="8" fill="#17171c" stroke="#555"/>
+  <text x="90" y="198" fill="#ff9f0a" font-family="Consolas" font-size="16">Operator: Division (÷)</text>
+  <rect x="70" y="230" width="760" height="45" rx="8" fill="#17171c" stroke="#f44336"/>
+  <text x="90" y="258" fill="#fff" font-family="Consolas" font-size="16">Second Operand: 0</text>
+  <text x="75" y="295" fill="#f44336" font-family="Arial" font-size="13">⚠ Cannot divide by zero (Validation Rule Triggered)</text>
+  <rect x="70" y="315" width="760" height="48" rx="10" fill="#ff9f0a"/>
+  <text x="450" y="346" fill="#000" font-family="Arial" font-size="18" font-weight="bold" text-anchor="middle">Compute Result</text>
+  <!-- SnackBar Alert -->
+  <rect x="70" y="385" width="760" height="45" rx="8" fill="#323232"/>
+  <text x="90" y="413" fill="#fff" font-family="Arial" font-size="14">SnackBar: Please correct validation errors in the form</text>
+</svg>

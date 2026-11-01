@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+  <rect width="900" height="520" fill="#17171c"/>
+  <rect x="40" y="35" width="820" height="450" rx="16" fill="#212227"/>
+  <text x="70" y="80" fill="#ff9f0a" font-family="Arial, sans-serif" font-size="26" font-weight="bold">Experiment 10 — Testing &amp; Debugging in Flutter</text>
+  <!-- Checklist -->
+  <g font-family="Arial, sans-serif" font-size="15" fill="#e0e0e0">
+    <text x="70" y="125" fill="#ff9f0a" font-size="17" font-weight="bold">A. Calculator Automated Test Suites</text>
+    <text x="95" y="155">✓ Unit Tests: Arithmetic operators, zero-division safeguard, precision rounding</text>
+    <text x="95" y="185">✓ Widget Tests: Simulated tap interactions, display updates, form validation</text>
+    <text x="95" y="215">✓ Boundary Tests: Max digit limits, multiple decimal suppression, negation toggle</text>
+
+    <text x="70" y="260" fill="#ff9f0a" font-size="17" font-weight="bold">B. Debugging Tools &amp; DevTools</text>
+    <text x="95" y="290">✓ Flutter Inspector: Widget hierarchy, constraints, and keypad alignment</text>
+    <text x="95" y="320">✓ DevTools Memory &amp; CPU profiler: Frame times and memory leak prevention</text>
+    <text x="95" y="350">✓ Console Logs &amp; Breakpoints: debugPrint() and state variable inspection</text>
+
+    <text x="70" y="395" fill="#ff9f0a" font-size="17" font-weight="bold">C. Verification Results</text>
+    <text x="95" y="425" fill="#4caf50" font-weight="bold">flutter test: 100% Passed (19 tests) | flutter analyze: No issues found!</text>
+  </g>
+</svg>

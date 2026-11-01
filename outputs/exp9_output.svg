@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+  <rect width="900" height="520" fill="#17171c"/>
+  <rect x="40" y="35" width="820" height="450" rx="16" fill="#212227"/>
+  <text x="70" y="80" fill="#ff9f0a" font-family="Arial, sans-serif" font-size="26" font-weight="bold">Experiment 9 — REST API Integration (Live Exchange Rates)</text>
+  <!-- Summary Banner -->
+  <rect x="70" y="110" width="760" height="70" rx="10" fill="#17171c" stroke="#333"/>
+  <text x="95" y="140" fill="#fff" font-family="Arial" font-size="18" font-weight="bold">Base Currency: 1 USD</text>
+  <text x="95" y="162" fill="#888" font-family="Arial" font-size="13">Source: api.frankfurter.app • FutureBuilder State: ConnectionState.done</text>
+  <!-- Rate Cards Grid -->
+  <g font-family="Consolas, monospace" font-size="16">
+    <rect x="70" y="195" width="370" height="55" rx="8" fill="#17171c"/><text x="90" y="230" fill="#fff">EUR (Euro)</text><text x="420" y="230" fill="#ff9f0a" font-weight="bold" text-anchor="end">0.92</text>
+    <rect x="460" y="195" width="370" height="55" rx="8" fill="#17171c"/><text x="480" y="230" fill="#fff">GBP (British Pound)</text><text x="810" y="230" fill="#ff9f0a" font-weight="bold" text-anchor="end">0.79</text>
+    <rect x="70" y="260" width="370" height="55" rx="8" fill="#17171c"/><text x="90" y="295" fill="#fff">INR (Indian Rupee)</text><text x="420" y="295" fill="#ff9f0a" font-weight="bold" text-anchor="end">83.25</text>
+    <rect x="460" y="260" width="370" height="55" rx="8" fill="#17171c"/><text x="480" y="295" fill="#fff">JPY (Japanese Yen)</text><text x="810" y="295" fill="#ff9f0a" font-weight="bold" text-anchor="end">151.40</text>
+    <rect x="70" y="325" width="370" height="55" rx="8" fill="#17171c"/><text x="90" y="360" fill="#fff">CAD (Canadian Dollar)</text><text x="420" y="360" fill="#ff9f0a" font-weight="bold" text-anchor="end">1.36</text>
+    <rect x="460" y="325" width="370" height="55" rx="8" fill="#17171c"/><text x="480" y="360" fill="#fff">AUD (Australian Dollar)</text><text x="810" y="360" fill="#ff9f0a" font-weight="bold" text-anchor="end">1.52</text>
+  </g>
+  <text x="70" y="425" fill="#4caf50" font-family="Arial" font-size="14">✓ JSON parsed into Dart ExchangeRateData models</text>
+</svg>

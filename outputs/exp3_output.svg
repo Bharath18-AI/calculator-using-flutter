@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+  <rect width="900" height="520" fill="#17171c"/>
+  <rect x="40" y="35" width="820" height="450" rx="16" fill="#212227"/>
+  <text x="70" y="80" fill="#ff9f0a" font-family="Arial, sans-serif" font-size="26" font-weight="bold">Experiment 3 — Responsive UI (MediaQuery &amp; Breakpoints)</text>
+  <!-- Mobile View Card -->
+  <rect x="70" y="110" width="360" height="340" rx="12" fill="#17171c" stroke="#444" stroke-width="1"/>
+  <text x="90" y="145" fill="#ff9f0a" font-family="Arial" font-size="18" font-weight="bold">Mobile View (&lt; 600px)</text>
+  <rect x="90" y="165" width="320" height="60" rx="8" fill="#212227"/>
+  <text x="390" y="205" fill="#fff" font-family="Consolas" font-size="24" text-anchor="end">5,760</text>
+  <text x="90" y="255" fill="#888" font-family="Arial" font-size="14">Single-column unified scrollable keypad layout</text>
+  <!-- Desktop View Card -->
+  <rect x="470" y="110" width="360" height="340" rx="12" fill="#17171c" stroke="#ff9f0a" stroke-width="1.5"/>
+  <text x="490" y="145" fill="#ff9f0a" font-family="Arial" font-size="18" font-weight="bold">Desktop View (&gt; 900px)</text>
+  <rect x="490" y="165" width="165" height="150" rx="8" fill="#212227"/>
+  <text x="572" y="245" fill="#fff" font-family="Arial" font-size="14" text-anchor="middle">Keypad Panel (3x)</text>
+  <rect x="665" y="165" width="145" height="150" rx="8" fill="#212227"/>
+  <text x="737" y="235" fill="#ff9f0a" font-family="Arial" font-size="14" text-anchor="middle">History Tape</text>
+  <text x="737" y="260" fill="#888" font-family="Consolas" font-size="12" text-anchor="middle">480 × 12 = 5,760</text>
+  <text x="490" y="350" fill="#4caf50" font-family="Arial" font-size="14">✓ Adaptive 2-Column Split View Activated</text>
+</svg>

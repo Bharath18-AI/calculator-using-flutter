@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+  <rect width="900" height="520" fill="#17171c"/>
+  <rect x="40" y="35" width="820" height="450" rx="16" fill="#212227"/>
+  <text x="70" y="80" fill="#ff9f0a" font-family="Arial, sans-serif" font-size="26" font-weight="bold">Experiment 4 — Navigation &amp; Named Routes</text>
+  <!-- Route 1 -->
+  <rect x="70" y="115" width="240" height="320" rx="12" fill="#17171c" stroke="#444"/>
+  <text x="90" y="150" fill="#ff9f0a" font-family="Arial" font-size="16" font-weight="bold">Route: '/' (Standard)</text>
+  <rect x="90" y="170" width="200" height="50" rx="6" fill="#212227"/>
+  <text x="270" y="202" fill="#fff" font-family="Consolas" font-size="20" text-anchor="end">500</text>
+  <text x="90" y="250" fill="#888" font-family="Arial" font-size="13">Primary basic arithmetic mode</text>
+  <!-- Route 2 -->
+  <rect x="330" y="115" width="240" height="320" rx="12" fill="#17171c" stroke="#ff9f0a" stroke-width="1.5"/>
+  <text x="350" y="150" fill="#ff9f0a" font-family="Arial" font-size="16" font-weight="bold">Route: '/scientific'</text>
+  <text x="350" y="190" fill="#fff" font-family="Consolas" font-size="14">sin(x), cos(x), tan(x)</text>
+  <text x="350" y="220" fill="#fff" font-family="Consolas" font-size="14">log(x), ln(x), √x, x²</text>
+  <text x="350" y="260" fill="#4caf50" font-family="Arial" font-size="13">Advanced math functions</text>
+  <!-- Route 3 -->
+  <rect x="590" y="115" width="240" height="320" rx="12" fill="#17171c" stroke="#444"/>
+  <text x="610" y="150" fill="#ff9f0a" font-family="Arial" font-size="16" font-weight="bold">Route: '/history'</text>
+  <text x="610" y="190" fill="#bbb" font-family="Consolas" font-size="13">345 + 155 = 500</text>
+  <text x="610" y="220" fill="#bbb" font-family="Consolas" font-size="13">12.5 × 8 = 100</text>
+  <text x="610" y="250" fill="#bbb" font-family="Consolas" font-size="13">√144 = 12</text>
+  <text x="610" y="290" fill="#888" font-family="Arial" font-size="13">Chronological equation log</text>
+</svg>
