@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
   <rect width="900" height="520" fill="#17171c"/>
   <rect x="40" y="35" width="820" height="450" rx="16" fill="#212227"/>
-  <text x="70" y="80" fill="#ff9f0a" font-family="Arial, sans-serif" font-size="26" font-weight="bold">Experiment 2 — Flutter Widgets &amp; Layouts (Row, Column, Stack)</text>
   <!-- Display Box -->
   <rect x="70" y="105" width="760" height="90" rx="12" fill="#17171c" stroke="#333" stroke-width="1.5"/>
   <rect x="85" y="120" width="55" height="24" rx="8" fill="#ff9f0a"/>
