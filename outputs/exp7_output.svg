@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
   <rect width="900" height="520" fill="#17171c"/>
   <rect x="40" y="35" width="820" height="450" rx="16" fill="#212227"/>
-  <text x="70" y="80" fill="#ff9f0a" font-family="Arial, sans-serif" font-size="26" font-weight="bold">Experiment 7 — Forms, Validation &amp; Error Handling</text>
   <rect x="70" y="110" width="760" height="45" rx="8" fill="#17171c" stroke="#555"/>
   <text x="90" y="138" fill="#fff" font-family="Consolas" font-size="16">First Operand: 125.5</text>
   <rect x="70" y="170" width="760" height="45" rx="8" fill="#17171c" stroke="#555"/>
