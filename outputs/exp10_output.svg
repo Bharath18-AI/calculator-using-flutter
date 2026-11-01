@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
   <rect width="900" height="520" fill="#17171c"/>
   <rect x="40" y="35" width="820" height="450" rx="16" fill="#212227"/>
-  <text x="70" y="80" fill="#ff9f0a" font-family="Arial, sans-serif" font-size="26" font-weight="bold">Experiment 10 — Testing &amp; Debugging in Flutter</text>
+  
   <!-- Checklist -->
   <g font-family="Arial, sans-serif" font-size="15" fill="#e0e0e0">
     <text x="70" y="125" fill="#ff9f0a" font-size="17" font-weight="bold">A. Calculator Automated Test Suites</text>
