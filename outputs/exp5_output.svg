@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
   <rect width="900" height="520" fill="#17171c"/>
   <rect x="40" y="35" width="820" height="450" rx="16" fill="#212227"/>
-  <text x="70" y="80" fill="#ff9f0a" font-family="Arial, sans-serif" font-size="26" font-weight="bold">Experiment 5 — State Management (setState vs Provider)</text>
   <!-- setState Card -->
   <rect x="70" y="115" width="370" height="330" rx="12" fill="#17171c" stroke="#444"/>
   <text x="95" y="150" fill="#ff9f0a" font-family="Arial" font-size="18" font-weight="bold">A. Local State (setState)</text>
