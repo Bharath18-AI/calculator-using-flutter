@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
   <rect width="900" height="520" fill="#17171c"/>
   <rect x="40" y="35" width="820" height="450" rx="16" fill="#212227"/>
-  <text x="70" y="80" fill="#ff9f0a" font-family="Arial, sans-serif" font-size="26" font-weight="bold">Experiment 6 — Custom Widgets &amp; Themes</text>
   <!-- Custom Header -->
   <rect x="70" y="115" width="760" height="80" rx="12" fill="#17171c" stroke="#333"/>
   <rect x="90" y="130" width="50" height="50" rx="10" fill="#332410"/>
